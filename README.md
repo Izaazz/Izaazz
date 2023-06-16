@@ -3,20 +3,21 @@
 
 ## 📊 &nbsp;Estatísticas
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row;">
+  
+  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark&hide=ShaderLab,HLSL,ASP.NET&bg_color=0d1116&)](https://github.com/Izaazz/github-readme-stats#gh-dark-mode-only)"/>
+
+  <img style= "height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
             
-  <a href="https://github.com/Izaazz#gh-dark-mode-only">
-    <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark&hide=ShaderLab,HLSL,ASP.NET#gh-dark-mode-only"/>
-   </a>
-    
-  <a href="https://github.com/Izaazz#gh-light-mode-only">
-    <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=default&hide=ShaderLab,HLSL,ASP.NET#gh-light-mode-only"/>
-    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+              
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
+</picture>
+</a>
 
-
-  <img style= "height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&theme=dark&show_icons=true&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
-
-</div>
+ </div>
 
 <br>
 
@@ -42,5 +43,4 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
