@@ -1,24 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6970&size=35&left=true&vCenter=true&width=1000&lines=Oiê!,+eu+sou+a+Iza!;Eu+curso+informática+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6970&size=35&left=true&vCenter=true&width=1000&lines=Oiê!+eu+sou+a+Iza!;Eu+curso+informática+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
 ## 📊 &nbsp;Estatísticas
 
 <div style="display: flex; flex-direction: row;">
   
-  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/Izaazz/github-readme-stats"/>
 
   <img style= "height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
 
  </div>
 
+<br>
 
- 
-## 📊 &nbsp;Estatísticas
 <div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Izaazz&theme=dark&count_private=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0" />
-  <img align="right" margin="100" src="https://github.com/Izaazz/Izaazz/blob/main/kirby.gif">
+  
+
+  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Izaazz&theme=dark&count_private=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0" />
+&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="16%" src="https://github.com/Izaazz/Izaazz/blob/main/kirby.gif">
+
 </div>
 
+## 📊 &nbsp; Ferramentas e 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
