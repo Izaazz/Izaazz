@@ -5,9 +5,9 @@
 
 <div style="display: flex; flex-direction: row;">
   
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats"/>
 
-  <img style= "height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
+  <img style= "height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
 
   <iframe src="https://giphy.com/embed/ZVZTD5kaMZ2d7EEfRn" width="480" height="355" frameBorder="0" class="giphy-embed" allowFullScreen />
 
@@ -17,6 +17,7 @@
  
 ## 📊 &nbsp;Estatísticas
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Izaazz&theme=dark&count_private=true&bg_color=0d1116&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0" />
+  ![](https://github.com/Izaazz/Izaazz/blob/main/kirby.gif)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
