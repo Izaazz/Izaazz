@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6970&size=35&left=true&vCenter=true&width=1000&lines=Oiê!+eu+sou+a+Iza!;Eu+curso+informática+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6970&size=35&left=true&vCenter=true&width=1000&lines=Oioi!+Eu+sou+a+Iza!;Eu+curso+informática+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
 ## 📊 &nbsp;Estatísticas
