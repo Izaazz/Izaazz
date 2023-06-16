@@ -3,13 +3,20 @@
 
 ## 📊 &nbsp;Estatísticas
 
-<div style="display: flex; flex-direction: row;">
-  
-  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark&hide=ShaderLab,HLSL,ASP.NET&bg_color=00000000&)](https://github.com/Izaazz/github-readme-stats"/>
+<div style="display: flex; flex-direction: row">
+            
+  <a href="https://github.com/Izaazz#gh-dark-mode-only">
+    <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=dark&hide=ShaderLab,HLSL,ASP.NET#gh-dark-mode-only"/>
+   </a>
+    
+  <a href="https://github.com/Izaazz#gh-light-mode-only">
+    <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&theme=default&hide=ShaderLab,HLSL,ASP.NET#gh-light-mode-only"/>
+    </a>
 
-  <img style= "height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&show_icons=true&bg_color=00000000&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
 
- </div>
+  <img style= "height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&theme=dark&show_icons=true&title_color=FF6970&text_color=CBDFCB&icon_color=2BB0F0&hide_rank=true" />
+
+</div>
 
 <br>
 
