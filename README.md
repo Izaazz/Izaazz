@@ -19,7 +19,7 @@
 <div style="display: flex; flex-direction: row;">
   
 
-  <img style="height: auto; width: 60%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Izaazz&theme=transparent&count_private=true&bg_color=00000000&title_color=4F8CC9&text_color=CBDFCB&icon_color=2BB0F0" />
+  <img style="height: auto; width: 60%;" class="img" src="https://streak-stats.demolab.com?user=Izaazz&theme=transparent&ring=FF6970&sideLabels=FF6970&fire=FF6970&sideNums=FF6970&currStreakNum=FF6970&currStreakLabel=FF6970&dates=9F9F9F](https://git.io/streak-stats)" />
 &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="25%" src="https://github.com/Izaazz/Izaazz/blob/main/kirby.gif">
 
