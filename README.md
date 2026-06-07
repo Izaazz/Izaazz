@@ -5,11 +5,11 @@
 
 <div style="display: flex; flex-direction: row;">
   
-  <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&text_color=9f9f9f&title_color=FF6970&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/Izaazz/github-readme-stats)"/>
+  <!--<img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izaazz&layout=compact&text_color=9f9f9f&title_color=FF6970&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/Izaazz/github-readme-stats)"/>
 
   <img style= "height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Izaazz&hide=contribs,prs&show_icons=true&title_color=FF6970&text_color=9f9f9f&bg_color=00000000&icon_color=2BB0F0&hide_rank=true" />
             
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">-->
               
 
  </div>
@@ -19,9 +19,9 @@
 <div style="display: flex; flex-direction: row;">
   
 
-  <img style="height: auto; width: 60%;" class="img" src="https://streak-stats.demolab.com?user=Izaazz&theme=transparent&ring=FF6970&sideLabels=FF6970&fire=FF6970&sideNums=FF6970&currStreakNum=FF6970&currStreakLabel=FF6970&dates=9F9F9F](https://git.io/streak-stats)" />
+ <img style="height: auto; width: 60%;" class="img" src="https://streak-stats.demolab.com?user=Izaazz&theme=transparent&ring=FF6970&sideLabels=FF6970&fire=FF6970&sideNums=FF6970&currStreakNum=FF6970&currStreakLabel=FF6970&dates=9F9F9F](https://git.io/streak-stats)" />
 &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="25%" src="https://github.com/Izaazz/Izaazz/blob/main/kirby.gif">
+ <img width="25%" src="https://github.com/Izaazz/Izaazz/blob/main/kirby.gif">
 
 </div>
 
